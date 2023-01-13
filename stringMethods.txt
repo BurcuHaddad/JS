@@ -1,0 +1,14 @@
+.length
+.slice(7,13) from 7 to 13
+.slice(7) after 7 including 7
+.substr values less than 0 are treated as 0 similar to slice
+.replace("first","replacement")
+.replace(/FIRST/i,"replacement") case insensitive
+.replaceAll()
+.toUpperCase()
+.toLowerCase()
+.concat() joins two or more strings
+.trim() removes whitespace
+.padStart(4,"x") let text=5 results in xxx5
+.charAt(0) returns the character at a specfied index
+text[0] allows property access
