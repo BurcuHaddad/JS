@@ -1,0 +1,3 @@
+If we ask typeof JS will return array as an object.
+to solve this we can do Array.isArray(fruits) or
+fruits instanceof Array
