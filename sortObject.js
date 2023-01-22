@@ -6,8 +6,8 @@ const cars = [
 
 function myFunction() {
     cars.sort(function(a, b){
-        let x = a.year
-        let y = b.year
+        let x = a.type.toLowerCase();
+        let y = b.type.toLowerCase();
         if (x < y) {return -1;}
         if (x > y) {return 1;}
         return 0;
