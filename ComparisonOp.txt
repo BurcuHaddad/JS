@@ -1,0 +1,4 @@
+== equal to
+=== equal value and equal type
+!= not equal
+!== not equal value or not equa type
