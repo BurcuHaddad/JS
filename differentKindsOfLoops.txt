@@ -1,0 +1,12 @@
+for - loops through a block of code a number of times
+for/in - loops through the properties of an object
+for/of - loops through the values of an iterable object
+while - loops through a block of code while a specified condition is true
+do/while - also loops through a block of code while a specified condition is true
+
+for (exp 1; exp 2; exp 3) {
+    //code block to be executed
+}
+Exp 1 is executed (one time) before the execution of the code block.
+Exp 2 defines the condition for executing the code block.
+Exp 3 is executed (every time) after the code block has been executed.
