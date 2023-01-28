@@ -1,0 +1,12 @@
+Object
+-Not directly iterable
+-Doesn't have a size property
+-Keys must be Strings
+-Keys are not well ordered
+-Have default Keys
+Map
+-Directly iterable
+-Has size property
+-Keys can be any datatype
+-Keys are ordered by insertion
+-Don't have default Keys
