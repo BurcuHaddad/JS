@@ -1,0 +1,6 @@
+( ) -> Exp. Grouping -> (100 + 50) * 3
+. -> Member of ->person.name
+[] -> Member of -> person["name"]
+?. -> Optional Chaining
+() -> Function Call -> MyFunction()
+new -> New with/without arguments -> new Date()
